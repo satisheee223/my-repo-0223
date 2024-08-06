@@ -1,2 +1,2 @@
 # my-repo-0223
-For Learning
+This is sample code
